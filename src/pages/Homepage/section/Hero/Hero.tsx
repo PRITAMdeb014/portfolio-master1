@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
             </Languages>
           </div>
           <div className="col-lg-4 col-md-4 col-sm-4 col-12">
-            <DownloadResume href={process.env.PUBLIC_URL + 'PRITAM DEB - RESUME 2022 (12).pdf'} target="_blank">
+            <DownloadResume href={process.env.PUBLIC_URL + 'portfolio-master1/PRITAM DEB - RESUME 2022 (12).pdf'} target="_blank">
               Resume
             </DownloadResume>
           </div>
