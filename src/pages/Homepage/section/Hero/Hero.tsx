@@ -25,14 +25,14 @@ const Hero: React.FC = () => {
               Full Stack Engineer
             </Headline>
             <Brand>
-              Davi Silva
+              PRITAM DEB
             </Brand>
             <Languages>
-              English <Sep>|</Sep> Portuguese <Sep>|</Sep> Spanish
+              English <Sep>|</Sep> Hindi <Sep>|</Sep>Japanese
             </Languages>
           </div>
           <div className="col-lg-4 col-md-4 col-sm-4 col-12">
-            <DownloadResume href={process.env.PUBLIC_URL + '/davi_resume_2020.pdf'} target="_blank">
+            <DownloadResume href={process.env.PUBLIC_URL + 'C:\Users\PRITAM DEB\Downloads\hlo'} target="_blank">
               Resume
             </DownloadResume>
           </div>
